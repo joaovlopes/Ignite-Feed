@@ -1,7 +1,6 @@
 import { Post } from './components/Post.tsx'
 import { Header } from './components/Header.tsx'
 import { Sidebar } from './components/Sidebar.tsx'
-import { Comment } from './components/Comment.tsx'
 
 import styles from './app.module.css'
 
