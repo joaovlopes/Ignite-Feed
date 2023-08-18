@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bem vindo a Ignite Feed!
 
 Objetivo 🎯
 - Conhecer os conceitos basicos do React
